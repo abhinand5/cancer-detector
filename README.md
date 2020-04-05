@@ -1,9 +1,9 @@
 # Cancer Detector App
 Hi there, this is a **machine-learning powered app** which can detect cancer from Histopathologic Scan Images.
 
-Here is the link to the app 
-
-[Open App](https://planet-recognizer.herokuapp.com/)
+<!-- Here is the link to the app  -->
+(Link: To be updated)
+<!-- [Open App](https://planet-recognizer.herokuapp.com/) -->
 
 > **NOTE: The image you upload should be a Histopthalogic Scan image.**
 
