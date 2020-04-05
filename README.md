@@ -1,19 +1,19 @@
-# Planet Recognizer App
-Hi there, this is a **machine-learning powered app** which can tell you which of the 8 planets your image has. Give it a try. It is fun!
+# Cancer Detector App
+Hi there, this is a **machine-learning powered app** which can detect cancer from Histopathologic Scan Images.
 
 Here is the link to the app 
 
 [Open App](https://planet-recognizer.herokuapp.com/)
 
-> **NOTE: The image you upload should contain a planet.**
+> **NOTE: The image you upload should be a Histopthalogic Scan image.**
 
 You can fetch the trained model from the models directory.
 
 > Feel free to contribute to this repository.
 
 ## Built with
-1. Pytorch   (Backend)
-2. fast.ai   (Model)
+1. Pytorch   (DL framework)
+2. OpenCV    (Pre-Processing)
 3. Streamlit (UI)
 4. Heroku    (Platform)
 
@@ -29,4 +29,4 @@ You can fetch the trained model from the models directory.
 
 
 > Author: Abhinand <br>
-> Date: 15-01-2020
+> Date: 05-04-2020
